@@ -42,7 +42,7 @@ export default function About() {
                 </div>
                 
               </div>
-              <div className="flex flex-wrap gap-4">
+              <div className="flex gap-4">
               <a
               href={profile.cvUrl}
               download
