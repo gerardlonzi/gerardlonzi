@@ -31,7 +31,7 @@ I create clean, user-focused products with scalable architectures and real busin
 ## 📫 Contact
 
 * **LinkedIn:** [gerardlonzi](www.linkedin.com/in/gerard-lonzi-3b93162bb)
-* **Portfolio / Website:** [gerardlonzi.netlify.app](https://gerardlonzi.netlify.app)
+* **Portfolio / Website:** [gerardlonzi.netlify.app](https://gerardlonzi.vercel.app/)
 * **Email:** [gerardlonzi09@gmail.com](mailto:gerardlonzi09@email.com)
 
 ---
