@@ -42,13 +42,13 @@ export default function Hero() {
             {profile.tagline}
           </p>
 
-          <div className="flex flex-wrap gap-4">
+          <div className="flex gap-4">
             <button
               type="button"
               onClick={() => scrollTo('projects')}
               className="glow-btn bg-accent px-7 py-3.5 text-sm text-white shadow-lg shadow-accent/30"
             >
-              <span className="relative z-10">Voir mes projets</span>
+              <span className="relative z-10">Mes projets</span>
             </button>
             <button
               type="button"
