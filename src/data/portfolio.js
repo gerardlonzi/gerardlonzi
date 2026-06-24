@@ -7,7 +7,7 @@ export const profile = {
   location: 'Cameroun',
   cvUrl: '/cv.pdf',
   heroPhoto: '/profil.png',
-  aboutPhoto: '/profil.png',
+  aboutPhoto: '/pc.png',
   social: {
     github: 'https://github.com/gerardlonzi',
     linkedin: 'https://www.linkedin.com/in/gerard-lonzi-3b93162bb',
@@ -164,37 +164,30 @@ export const experience = [
       'Création de sites vitrines et applications React pour des clients variés.',
     images: [],
   },
+  
   {
-    period: '2023 — 2024',
-    company: 'Startup Tech',
-    role: 'Stagiaire Développeur Web',
+    period: 'Mai 2023 — En cours',
+    company: 'Maneliza Training Center',
+    role: 'Professeur',
     description:
-      "Contribution au développement UI, revues de code et intégration d'API REST.",
-    images: [],
+    "Professeur de webMaster chargé de concevoir et dispenser des cours techniques (HTML, CSS, JavaScript, Node js, etc.),",
+    images: ['/maneliza.jpg','manelizaflyer.jpg','match.jpg'],
   },
   {
-    period: '2023 — 2024',
-    company: 'Startup Tech',
-    role: 'Stagiaire Développeur Web',
+    period: '2024 — juin 2026',
+    company: 'Mane Global',
+    role: 'Developpeur Fullstack (CDD | 4 mois)',
     description:
-      "Contribution au développement UI, revues de code et intégration d'API REST.",
-    images: [],
+      "Contribution au développement de Nelmark, MANEJOBS | Plateforme d'affiliation qui connecte les influencer et ecommercant en Afrique",
+    images: ["/maneglobal.jpeg","aid.jpg"],
   },
   {
-    period: '2023 — 2024',
-    company: 'Startup Tech',
-    role: 'Stagiaire Développeur Web',
-    description:
-      "Contribution au développement UI, revues de code et intégration d'API REST.",
-    images: [],
-  },
-  {
-    period: 'juin 2023 — septembre 2024',
+    period: 'juin 2023 — septembre 2023',
     company: 'Tic Foundation',
     role: 'Stagiaire Développeur Web',
     description:
       "Contribution au développement de Tic Summit website 2023, revues de code et intégration d'API REST.",
-    images: ['/public/bill.jpg','/public/ticlogo.png'],
+    images: ['/bill.jpg','/ticlogo.png','ticlab.jpg'],
   },
 ];
 
